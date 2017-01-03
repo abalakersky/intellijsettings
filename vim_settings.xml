@@ -1,0 +1,47 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/start_script.py" timestamp="1483466261937">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1483465736670">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Bash Fragment (README.md:209).sh" timestamp="1483463464417">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go-projects/src/github.com/aws-go-tools/s3_manifester/README.md" timestamp="1483463568503">
+        <mark key="[" line="22" column="74" />
+        <mark key="]" line="22" column="75" />
+        <mark key="." line="22" column="75" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>`</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>`</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
