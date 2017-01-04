@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1483466261937">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483465736670">
+      <file name="/Dummy.txt" timestamp="1483555921019">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Bash Fragment (README.md:209).sh" timestamp="1483463464417">
@@ -17,17 +17,23 @@
         <mark key="]" line="22" column="75" />
         <mark key="." line="22" column="75" />
       </file>
+      <file name="$USER_HOME$/Development/rean/pipeline_work/vpc_deploynow.yaml" timestamp="1483555861413">
+        <mark key="[" line="445" column="47" />
+        <mark key="]" line="445" column="49" />
+        <mark key="^" line="445" column="49" />
+        <mark key="." line="445" column="49" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
