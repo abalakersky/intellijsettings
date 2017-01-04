@@ -6,10 +6,16 @@
       <file name="/start_script.py" timestamp="1483466261937">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483556582088">
+      <file name="/Dummy.txt" timestamp="1483556678120">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/rean/RADAR/users-rean/.gitignore" timestamp="1483556808331">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/Bash Fragment (README.md:209).sh" timestamp="1483463464417">
         <mark key="[" line="0" column="0" />
@@ -33,7 +39,7 @@
         <text>s</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -47,6 +53,7 @@
       <history-search />
       <history-cmd>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
