@@ -14,10 +14,10 @@
       <file name="/Bash Fragment (README.md:209).sh" timestamp="1483463464417">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go-projects/src/github.com/aws-go-tools/s3_manifester/README.md" timestamp="1483556530882">
-        <mark key="[" line="46" column="12" />
-        <mark key="]" line="46" column="21" />
-        <mark key="." line="46" column="21" />
+      <file name="$USER_HOME$/Development/go-projects/src/github.com/aws-go-tools/s3_manifester/README.md" timestamp="1483556669787">
+        <mark key="[" line="46" column="13" />
+        <mark key="]" line="46" column="13" />
+        <mark key="." line="46" column="13" />
         <mark key="^" line="46" column="21" />
       </file>
       <file name="$USER_HOME$/Development/rean/pipeline_work/vpc_deploynow.yaml" timestamp="1483555861413">
@@ -30,13 +30,13 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>Updating using IDEA</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>Updating using IDEA</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
