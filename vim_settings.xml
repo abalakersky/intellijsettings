@@ -11,6 +11,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/rean/cfn/elasticsearch.cf.json" timestamp="1483636521119">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="345" column="0" />
+        <mark key="^" line="345" column="0" />
+        <mark key="." line="345" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/rean/cf_flowLogs_to_S3_via_Kinesis.json" timestamp="1483630374486">
         <mark key="[" line="35" column="6" />
         <mark key="]" line="35" column="11" />
@@ -57,7 +63,7 @@
         <text>s</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -70,8 +76,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
