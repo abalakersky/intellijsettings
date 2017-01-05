@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1483466261937">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483630573108">
+      <file name="/Dummy.txt" timestamp="1483640230059">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -44,11 +44,11 @@
       <file name="/Bash Fragment (README.md:209).sh" timestamp="1483463464417">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go-projects/src/github.com/aws-go-tools/s3_manifester/README.md" timestamp="1483556669787">
-        <mark key="[" line="46" column="13" />
-        <mark key="]" line="46" column="13" />
-        <mark key="." line="46" column="13" />
-        <mark key="^" line="46" column="21" />
+      <file name="$USER_HOME$/Development/go-projects/src/github.com/aws-go-tools/s3_manifester/README.md" timestamp="1483641052981">
+        <mark key="[" line="35" column="83" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Development/rean/pipeline_work/vpc_deploynow.yaml" timestamp="1483630925246">
         <mark key="[" line="501" column="40" />
@@ -60,13 +60,13 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
