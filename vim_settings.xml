@@ -29,6 +29,12 @@
         <mark key="^" line="39" column="30" />
         <mark key="." line="39" column="30" />
       </file>
+      <file name="$USER_HOME$/Development/rean/pipeline_work/shell.sh" timestamp="1483715395512">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="60" />
+        <mark key="." line="4" column="60" />
+        <mark key="^" line="4" column="60" />
+      </file>
       <file name="$USER_HOME$/Development/Ruby_Tools/json2csv.rb" timestamp="1483630549841">
         <mark key="[" line="8" column="46" />
         <mark key="]" line="10" column="8" />
@@ -59,14 +65,26 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">CQ==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">CQ==</text>
       </register>
     </registers>
     <search>
