@@ -9,15 +9,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/ast-2.3.0/lib" />
       </SOURCES>
     </library>
-    <library name="awesome_print (v1.7.0, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/awesome_print-1.7.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/awesome_print-1.7.0/lib" />
-      </SOURCES>
-    </library>
     <library name="awesome_print (v1.7.0, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/awesome_print-1.7.0/lib" />
@@ -25,15 +16,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/awesome_print-1.7.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-partitions (v1.1.0, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-partitions-1.1.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-partitions-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-partitions (v1.1.0, RVM: ruby-2.3.0) [gem]">
@@ -45,15 +27,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-partitions-1.1.0/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk (v2.6.44, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-2.6.44/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-2.6.44/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk (v3.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-3.0.0.rc1/bin" />
@@ -63,15 +36,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-3.0.0.rc1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-3.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-acm (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-acm-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-acm-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-acm (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -92,24 +56,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-apigateway-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-apigateway (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-apigateway-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-apigateway-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-applicationautoscaling (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-applicationautoscaling-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-applicationautoscaling-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-applicationautoscaling (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-applicationautoscaling-1.0.0.rc1/lib" />
@@ -117,15 +63,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-applicationautoscaling-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-applicationdiscoveryservice (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-applicationdiscoveryservice-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-applicationdiscoveryservice-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-applicationdiscoveryservice (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -137,24 +74,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-applicationdiscoveryservice-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-appstream (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-appstream-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-appstream-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-autoscaling (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-autoscaling-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-autoscaling-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-autoscaling (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-autoscaling-1.0.0.rc1/lib" />
@@ -164,15 +83,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-autoscaling-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-budgets (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-budgets-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-budgets-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-budgets (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-budgets-1.0.0.rc1/lib" />
@@ -180,15 +90,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-budgets-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-cloudformation (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudformation-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudformation-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-cloudformation (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -209,24 +110,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-cloudfront-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-cloudfront (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudfront-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudfront-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-cloudhsm (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudhsm-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudhsm-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-cloudhsm (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-cloudhsm-1.0.0.rc1/lib" />
@@ -234,15 +117,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-cloudhsm-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-cloudsearch (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudsearch-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudsearch-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-cloudsearch (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -254,15 +128,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-cloudsearch-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-cloudsearchdomain (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudsearchdomain-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudsearchdomain-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-cloudsearchdomain (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-cloudsearchdomain-1.0.0.rc1/lib" />
@@ -270,15 +135,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-cloudsearchdomain-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-cloudtrail (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudtrail-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudtrail-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-cloudtrail (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -290,15 +146,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-cloudtrail-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-cloudwatch (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudwatch-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudwatch-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-cloudwatch (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-cloudwatch-1.0.0.rc1/lib" />
@@ -306,15 +153,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-cloudwatch-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-cloudwatchevents (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudwatchevents-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudwatchevents-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-cloudwatchevents (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -326,15 +164,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-cloudwatchevents-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-cloudwatchlogs (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudwatchlogs-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cloudwatchlogs-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-cloudwatchlogs (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-cloudwatchlogs-1.0.0.rc1/lib" />
@@ -344,24 +173,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-cloudwatchlogs-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-codebuild (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-codebuild-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-codebuild-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-codecommit (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-codecommit-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-codecommit-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-codecommit (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-codecommit-1.0.0.rc1/lib" />
@@ -369,15 +180,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-codecommit-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-codedeploy (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-codedeploy-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-codedeploy-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-codedeploy (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -398,24 +200,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-codepipeline-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-codepipeline (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-codepipeline-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-codepipeline-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-cognitoidentity (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cognitoidentity-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cognitoidentity-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-cognitoidentity (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-cognitoidentity-1.0.0.rc1/lib" />
@@ -425,15 +209,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-cognitoidentity-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-cognitoidentityprovider (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cognitoidentityprovider-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cognitoidentityprovider-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-cognitoidentityprovider (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-cognitoidentityprovider-1.0.0.rc1/lib" />
@@ -441,15 +216,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-cognitoidentityprovider-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-cognitosync (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cognitosync-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-cognitosync-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-cognitosync (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -470,63 +236,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-configservice-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-configservice (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-configservice-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-configservice-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-core (v2.3.22, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.3.22/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.3.22/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.3.22/apis" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.3.22/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.3.22/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.3.22/apis" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-core (v2.5.11, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.5.11/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.5.11/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.5.11/apis" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.5.11/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.5.11/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.5.11/apis" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-core (v2.6.44, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.6.44/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.6.44/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.6.44/apis" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.6.44/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.6.44/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-2.6.44/apis" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-core (v3.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-3.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-core-3.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-core (v3.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-core-3.0.0.rc1/lib" />
@@ -534,15 +243,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-core-3.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-databasemigrationservice (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-databasemigrationservice-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-databasemigrationservice-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-databasemigrationservice (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -554,15 +254,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-databasemigrationservice-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-datapipeline (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-datapipeline-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-datapipeline-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-datapipeline (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-datapipeline-1.0.0.rc1/lib" />
@@ -570,15 +261,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-datapipeline-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-devicefarm (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-devicefarm-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-devicefarm-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-devicefarm (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -599,24 +281,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-directconnect-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-directconnect (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-directconnect-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-directconnect-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-directoryservice (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-directoryservice-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-directoryservice-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-directoryservice (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-directoryservice-1.0.0.rc1/lib" />
@@ -626,15 +290,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-directoryservice-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-dynamodb (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-dynamodb-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-dynamodb-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-dynamodb (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-dynamodb-1.0.0.rc1/lib" />
@@ -642,15 +297,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-dynamodb-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-dynamodbstreams (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-dynamodbstreams-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-dynamodbstreams-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-dynamodbstreams (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -671,24 +317,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-ec2-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-ec2 (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-ec2-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-ec2-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-ecr (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-ecr-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-ecr-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-ecr (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-ecr-1.0.0.rc1/lib" />
@@ -696,15 +324,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-ecr-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-ecs (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-ecs-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-ecs-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-ecs (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -716,15 +335,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-ecs-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-efs (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-efs-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-efs-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-efs (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-efs-1.0.0.rc1/lib" />
@@ -732,15 +342,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-efs-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-elasticache (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-elasticache-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-elasticache-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-elasticache (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -761,24 +362,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-elasticbeanstalk-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-elasticbeanstalk (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-elasticbeanstalk-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-elasticbeanstalk-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-elasticloadbalancing (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-elasticloadbalancing-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-elasticloadbalancing-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-elasticloadbalancing (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-elasticloadbalancing-1.0.0.rc1/lib" />
@@ -786,15 +369,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-elasticloadbalancing-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-elasticloadbalancingv2 (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-elasticloadbalancingv2-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-elasticloadbalancingv2-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-elasticloadbalancingv2 (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -806,15 +380,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-elasticloadbalancingv2-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-elasticsearchservice (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-elasticsearchservice-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-elasticsearchservice-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-elasticsearchservice (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-elasticsearchservice-1.0.0.rc1/lib" />
@@ -822,15 +387,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-elasticsearchservice-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-elastictranscoder (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-elastictranscoder-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-elastictranscoder-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-elastictranscoder (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -842,15 +398,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-elastictranscoder-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-emr (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-emr-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-emr-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-emr (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-emr-1.0.0.rc1/lib" />
@@ -858,15 +405,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-emr-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-firehose (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-firehose-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-firehose-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-firehose (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -878,15 +416,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-firehose-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-gamelift (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-gamelift-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-gamelift-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-gamelift (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-gamelift-1.0.0.rc1/lib" />
@@ -894,15 +423,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-gamelift-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-glacier (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-glacier-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-glacier-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-glacier (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -914,24 +434,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-glacier-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-health (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-health-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-health-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-iam (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-iam-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-iam-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-iam (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-iam-1.0.0.rc1/lib" />
@@ -939,15 +441,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-iam-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-importexport (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-importexport-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-importexport-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-importexport (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -959,15 +452,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-importexport-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-inspector (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-inspector-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-inspector-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-inspector (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-inspector-1.0.0.rc1/lib" />
@@ -975,15 +459,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-inspector-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-iot (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-iot-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-iot-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-iot (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -995,15 +470,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-iot-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-iotdataplane (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-iotdataplane-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-iotdataplane-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-iotdataplane (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-iotdataplane-1.0.0.rc1/lib" />
@@ -1011,15 +477,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-iotdataplane-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-kinesis (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-kinesis-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-kinesis-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-kinesis (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -1031,15 +488,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-kinesis-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-kinesisanalytics (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-kinesisanalytics-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-kinesisanalytics-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-kinesisanalytics (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-kinesisanalytics-1.0.0.rc1/lib" />
@@ -1047,15 +495,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-kinesisanalytics-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-kms (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-kms-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-kms-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-kms (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -1076,24 +515,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-lambda-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-lambda (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-lambda-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-lambda-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-lambdapreview (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-lambdapreview-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-lambdapreview-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-lambdapreview (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-lambdapreview-1.0.0.rc1/lib" />
@@ -1101,24 +522,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-lambdapreview-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-lightsail (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-lightsail-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-lightsail-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-machinelearning (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-machinelearning-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-machinelearning-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-machinelearning (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -1130,15 +533,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-machinelearning-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-marketplacecommerceanalytics (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-marketplacecommerceanalytics-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-marketplacecommerceanalytics-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-marketplacecommerceanalytics (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-marketplacecommerceanalytics-1.0.0.rc1/lib" />
@@ -1146,15 +540,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-marketplacecommerceanalytics-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-marketplacemetering (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-marketplacemetering-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-marketplacemetering-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-marketplacemetering (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -1166,15 +551,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-marketplacemetering-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-opsworks (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-opsworks-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-opsworks-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-opsworks (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-opsworks-1.0.0.rc1/lib" />
@@ -1182,33 +558,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-opsworks-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-opsworkscm (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-opsworkscm-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-opsworkscm-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-pinpoint (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-pinpoint-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-pinpoint-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-polly (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-polly-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-polly-1.0.0.rc2/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-rds (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -1220,24 +569,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-rds-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-rds (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-rds-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-rds-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-redshift (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-redshift-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-redshift-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-redshift (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-redshift-1.0.0.rc1/lib" />
@@ -1247,33 +578,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-redshift-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-rekognition (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-rekognition-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-rekognition-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.6.44, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-resources-2.6.44/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-resources-2.6.44/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-route53 (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-route53-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-route53-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-route53 (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-route53-1.0.0.rc1/lib" />
@@ -1281,15 +585,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-route53-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-route53domains (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-route53domains-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-route53domains-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-route53domains (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -1310,24 +605,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-s3-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-s3 (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-s3-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-s3-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-servicecatalog (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-servicecatalog-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-servicecatalog-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-servicecatalog (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-servicecatalog-1.0.0.rc1/lib" />
@@ -1335,15 +612,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-servicecatalog-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-ses (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-ses-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-ses-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-ses (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -1355,33 +623,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-ses-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-sfn (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-sfn-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-sfn-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-shield (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-shield-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-shield-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-simpledb (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-simpledb-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-simpledb-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-simpledb (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-simpledb-1.0.0.rc1/lib" />
@@ -1389,15 +630,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-simpledb-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-sms (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-sms-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-sms-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-sms (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -1418,24 +650,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-snowball-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-snowball (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-snowball-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-snowball-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-sns (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-sns-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-sns-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-sns (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-sns-1.0.0.rc1/lib" />
@@ -1454,15 +668,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-sqs-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-sqs (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-sqs-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-sqs-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-ssm (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-ssm-1.0.0.rc1/lib" />
@@ -1470,24 +675,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-ssm-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-ssm (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-ssm-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-ssm-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-storagegateway (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-storagegateway-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-storagegateway-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-storagegateway (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -1499,15 +686,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-storagegateway-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-support (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-support-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-support-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-support (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-support-1.0.0.rc1/lib" />
@@ -1515,15 +693,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-support-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-swf (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-swf-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-swf-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-swf (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
@@ -1544,33 +713,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-waf-1.0.0.rc1/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-waf (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-waf-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-waf-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-wafregional (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-wafregional-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-wafregional-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-workspaces (v1.0.0.rc1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-workspaces-1.0.0.rc1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-workspaces-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-workspaces (v1.0.0.rc1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-workspaces-1.0.0.rc1/lib" />
@@ -1578,24 +720,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sdk-workspaces-1.0.0.rc1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-xray (v1.0.0.rc2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-xray-1.0.0.rc2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sdk-xray-1.0.0.rc2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sigv2 (v1.0.0, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sigv2-1.0.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sigv2-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sigv2 (v1.0.0, RVM: ruby-2.3.0) [gem]">
@@ -1607,15 +731,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sigv2-1.0.0/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sigv4 (v1.0.0, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sigv4-1.0.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/aws-sigv4-1.0.0/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sigv4 (v1.0.0, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sigv4-1.0.0/lib" />
@@ -1623,21 +738,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/aws-sigv4-1.0.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="bundler (v1.13.7, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/bundler-1.13.7/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/bundler-1.13.7/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/bundler-1.13.7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/bundler-1.13.7/man" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/bundler-1.13.7/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/bundler-1.13.7/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/bundler-1.13.7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/bundler-1.13.7/man" />
       </SOURCES>
     </library>
     <library name="bundler (v1.14.0.pre.1, RVM: ruby-2.3.0) [gem]">
@@ -1673,15 +773,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/bundler-unload-1.0.2/lib" />
       </SOURCES>
     </library>
-    <library name="childprocess (v0.5.9, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/childprocess-0.5.9/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/childprocess-0.5.9/lib" />
-      </SOURCES>
-    </library>
     <library name="childprocess (v0.5.9, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/childprocess-0.5.9/lib" />
@@ -1689,17 +780,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/childprocess-0.5.9/lib" />
-      </SOURCES>
-    </library>
-    <library name="crack (v0.4.3, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/crack-0.4.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/crack-0.4.3/script" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/crack-0.4.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/crack-0.4.3/script" />
       </SOURCES>
     </library>
     <library name="crack (v0.4.3, RVM: ruby-2.3.0) [gem]">
@@ -1759,15 +839,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/did_you_mean-1.0.0/evaluation" />
       </SOURCES>
     </library>
-    <library name="elasticsearch (v2.0.0, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/elasticsearch-2.0.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/elasticsearch-2.0.0/lib" />
-      </SOURCES>
-    </library>
     <library name="elasticsearch (v2.0.0, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/elasticsearch-2.0.0/lib" />
@@ -1775,17 +846,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/elasticsearch-2.0.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="elasticsearch-api (v2.0.0, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/elasticsearch-api-2.0.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/elasticsearch-api-2.0.0/utils" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/elasticsearch-api-2.0.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/elasticsearch-api-2.0.0/utils" />
       </SOURCES>
     </library>
     <library name="elasticsearch-api (v2.0.0, RVM: ruby-2.3.0) [gem]">
@@ -1797,15 +857,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/elasticsearch-api-2.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/elasticsearch-api-2.0.0/utils" />
-      </SOURCES>
-    </library>
-    <library name="elasticsearch-transport (v2.0.0, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/elasticsearch-transport-2.0.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/elasticsearch-transport-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="elasticsearch-transport (v2.0.0, RVM: ruby-2.3.0) [gem]">
@@ -1843,15 +894,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/executable-hooks-1.3.2/lib" />
       </SOURCES>
     </library>
-    <library name="faraday (v0.10.1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/faraday-0.10.1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/faraday-0.10.1/lib" />
-      </SOURCES>
-    </library>
     <library name="faraday (v0.10.1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/faraday-0.10.1/lib" />
@@ -1859,23 +901,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/faraday-0.10.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="ffi (v1.9.14, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.14" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/ffi-1.9.14/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/ffi-1.9.14/gen" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/ffi-1.9.14/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/ffi-1.9.14/libtest" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.14" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/ffi-1.9.14/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/ffi-1.9.14/gen" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/ffi-1.9.14/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/ffi-1.9.14/libtest" />
       </SOURCES>
     </library>
     <library name="ffi (v1.9.14, RVM: ruby-2.3.0) [gem]">
@@ -1915,15 +940,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/gem-wrappers-1.2.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/gem-wrappers-1.2.7/lib" />
-      </SOURCES>
-    </library>
-    <library name="hashdiff (v0.3.2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/hashdiff-0.3.2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/hashdiff-0.3.2/lib" />
       </SOURCES>
     </library>
     <library name="hashdiff (v0.3.2, RVM: ruby-2.3.0) [gem]">
@@ -2073,15 +1089,6 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/unicode_normalize" />
       </SOURCES>
     </library>
-    <library name="jmespath (v1.3.1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/jmespath-1.3.1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/jmespath-1.3.1/lib" />
-      </SOURCES>
-    </library>
     <library name="jmespath (v1.3.1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/jmespath-1.3.1/lib" />
@@ -2089,29 +1096,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/jmespath-1.3.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="json (v1.8.3, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.3" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/json-1.8.3/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/json-1.8.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/json-1.8.3/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/json-1.8.3/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/json-1.8.3/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/json-1.8.3/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/json-1.8.3/diagrams" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.3" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/json-1.8.3/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/json-1.8.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/json-1.8.3/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/json-1.8.3/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/json-1.8.3/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/json-1.8.3/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/json-1.8.3/diagrams" />
       </SOURCES>
     </library>
     <library name="json (v1.8.3, RVM: ruby-2.3.0) [gem]">
@@ -2135,15 +1119,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/json-1.8.3/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/json-1.8.3/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/json-1.8.3/diagrams" />
-      </SOURCES>
-    </library>
-    <library name="json-compare (v0.1.8, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/json-compare-0.1.8/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/json-compare-0.1.8/lib" />
       </SOURCES>
     </library>
     <library name="json-compare (v0.1.8, RVM: ruby-2.3.0) [gem]">
@@ -2173,15 +1148,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/minitest-5.8.3/lib" />
       </SOURCES>
     </library>
-    <library name="multi_json (v1.12.1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/multi_json-1.12.1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/multi_json-1.12.1/lib" />
-      </SOURCES>
-    </library>
     <library name="multi_json (v1.12.1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/multi_json-1.12.1/lib" />
@@ -2189,15 +1155,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/multi_json-1.12.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="multipart-post (v2.0.0, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/multipart-post-2.0.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="multipart-post (v2.0.0, RVM: ruby-2.3.0) [gem]">
@@ -2209,17 +1166,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
-    <library name="mustermann (v1.0.0.beta2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/mustermann-1.0.0.beta2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/mustermann-1.0.0.beta2/bench" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/mustermann-1.0.0.beta2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/mustermann-1.0.0.beta2/bench" />
-      </SOURCES>
-    </library>
     <library name="mustermann (v1.0.0.beta2, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/mustermann-1.0.0.beta2/lib" />
@@ -2229,17 +1175,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/mustermann-1.0.0.beta2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/mustermann-1.0.0.beta2/bench" />
-      </SOURCES>
-    </library>
-    <library name="net-ssh (v3.3.0.beta1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/net-ssh-3.3.0.beta1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/net-ssh-3.3.0.beta1/support" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/net-ssh-3.3.0.beta1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/net-ssh-3.3.0.beta1/support" />
       </SOURCES>
     </library>
     <library name="net-ssh (v3.3.0.beta1, RVM: ruby-2.3.0) [gem]">
@@ -2304,17 +1239,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/power_assert-0.2.6/lib" />
       </SOURCES>
     </library>
-    <library name="power_assert (v0.4.1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/power_assert-0.4.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/power_assert-0.4.1/benchmarks" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/power_assert-0.4.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/power_assert-0.4.1/benchmarks" />
-      </SOURCES>
-    </library>
     <library name="powerpack (v0.1.1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/powerpack-0.1.1/lib" />
@@ -2322,21 +1246,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/powerpack-0.1.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="rack (v2.0.1, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/rack-2.0.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/rack-2.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/rack-2.0.1/contrib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/rack-2.0.1/example" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/rack-2.0.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/rack-2.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/rack-2.0.1/contrib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/rack-2.0.1/example" />
       </SOURCES>
     </library>
     <library name="rack (v2.0.1, RVM: ruby-2.3.0) [gem]">
@@ -2352,15 +1261,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/example" />
-      </SOURCES>
-    </library>
-    <library name="rack-protection (v2.0.0.beta2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/rack-protection-2.0.0.beta2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/rack-protection-2.0.0.beta2/lib" />
       </SOURCES>
     </library>
     <library name="rack-protection (v2.0.0.beta2, RVM: ruby-2.3.0) [gem]">
@@ -2462,17 +1362,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/rubygems-bundler-1.4.4/lib" />
       </SOURCES>
     </library>
-    <library name="rubyzip (v1.2.0, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/rubyzip-1.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/rubyzip-1.2.0/samples" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/rubyzip-1.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/rubyzip-1.2.0/samples" />
-      </SOURCES>
-    </library>
     <library name="rubyzip (v1.2.0, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rubyzip-1.2.0/lib" />
@@ -2502,17 +1391,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/rvm-1.11.3.9/lib" />
       </SOURCES>
     </library>
-    <library name="safe_yaml (v1.0.4, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/safe_yaml-1.0.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/safe_yaml-1.0.4/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/safe_yaml-1.0.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/safe_yaml-1.0.4/lib" />
-      </SOURCES>
-    </library>
     <library name="safe_yaml (v1.0.4, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/safe_yaml-1.0.4/bin" />
@@ -2524,15 +1402,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/safe_yaml-1.0.4/lib" />
       </SOURCES>
     </library>
-    <library name="selenium-webdriver (v2.53.4, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/selenium-webdriver-2.53.4/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/selenium-webdriver-2.53.4/lib" />
-      </SOURCES>
-    </library>
     <library name="selenium-webdriver (v2.53.4, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/selenium-webdriver-2.53.4/lib" />
@@ -2540,15 +1409,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/selenium-webdriver-2.53.4/lib" />
-      </SOURCES>
-    </library>
-    <library name="sinatra (v2.0.0.beta2, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/sinatra-2.0.0.beta2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/sinatra-2.0.0.beta2/lib" />
       </SOURCES>
     </library>
     <library name="sinatra (v2.0.0.beta2, RVM: ruby-2.3.0) [gem]">
@@ -2582,17 +1442,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/test-unit-3.1.5/sample" />
       </SOURCES>
     </library>
-    <library name="test-unit (v3.2.3, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/test-unit-3.2.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/test-unit-3.2.3/sample" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/test-unit-3.2.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/test-unit-3.2.3/sample" />
-      </SOURCES>
-    </library>
     <library name="test-unit (v3.2.3, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/test-unit-3.2.3/lib" />
@@ -2604,17 +1453,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/test-unit-3.2.3/sample" />
       </SOURCES>
     </library>
-    <library name="thor (v0.19.4, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/thor-0.19.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/thor-0.19.4/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/thor-0.19.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/thor-0.19.4/lib" />
-      </SOURCES>
-    </library>
     <library name="thor (v0.19.4, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/thor-0.19.4/bin" />
@@ -2624,19 +1462,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/thor-0.19.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/thor-0.19.4/lib" />
-      </SOURCES>
-    </library>
-    <library name="tilt (v2.0.5, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/tilt-2.0.5/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/tilt-2.0.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/tilt-2.0.5/man" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/tilt-2.0.5/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/tilt-2.0.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/tilt-2.0.5/man" />
       </SOURCES>
     </library>
     <library name="tilt (v2.0.5, RVM: ruby-2.3.0) [gem]">
@@ -2674,15 +1499,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/unix-crypt-1.3.0/lib" />
       </SOURCES>
     </library>
-    <library name="websocket (v1.2.3, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/websocket-1.2.3/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/websocket-1.2.3/lib" />
-      </SOURCES>
-    </library>
     <library name="websocket (v1.2.3, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/websocket-1.2.3/lib" />
@@ -2690,17 +1506,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/websocket-1.2.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="yajl (v0.3.4, RVM: ruby-2.3.0 [REAN]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/yajl-0.3.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/yajl-0.3.4/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/yajl-0.3.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@REAN/gems/yajl-0.3.4/lib" />
       </SOURCES>
     </library>
     <library name="yajl (v0.3.4, RVM: ruby-2.3.0) [gem]">
