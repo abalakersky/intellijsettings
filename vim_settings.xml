@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1483466261937">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484677270792">
+      <file name="/Dummy.txt" timestamp="1484680021303">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -30,11 +30,11 @@
         <mark key="^" line="4" column="60" />
       </file>
       <file name="$USER_HOME$/Development/testing/Python_Tests/s3_sample.py" timestamp="1484676186516" />
-      <file name="$USER_HOME$/Development/testing/Python_Tests/quick_start.py" timestamp="1484679842533">
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-        <mark key="^" line="6" column="45" />
+      <file name="$USER_HOME$/Development/testing/Python_Tests/quick_start.py" timestamp="1484680746494">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go-projects/src/github.com/aws-go-tools/s3_manifester/README.md" timestamp="1483641052981">
         <mark key="[" line="35" column="83" />
@@ -106,34 +106,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">czMgPSBib3RvMy5yZXNvdXJjZSgnczMnKQo=</text>
+        <text encoding="base64">aW1wb3J0IGlwYWRkcmVzcwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGlwYWRkcmVzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">czMgPSBib3RvMy5yZXNvdXJjZSgnczMnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zm9yIGJ1Y2tldCBpbiBzMy5idWNrZXRzLmFsbCgpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50IChidWNrZXQubmFtZSkK</text>
+        <text encoding="base64">Zm9yIGJ1Y2tldCBpbiBzMy5idWNrZXRzLmFsbCgpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBpc2luc3RhbmNlKGJ1Y2tldC5uYW1lLCBvYmplY3QpCg==</text>
+        <text encoding="base64">ICAgIHByaW50IChidWNrZXQubmFtZSkK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCBpc2luc3RhbmNlKGJ1Y2tldC5uYW1lLCBvYmplY3QpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgIAogICAgICAgIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
