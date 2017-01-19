@@ -59,7 +59,7 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/testing/Ruby_Testing/test.rb" timestamp="1484857164673">
+      <file name="$USER_HOME$/Development/testing/Ruby_Testing/test.rb" timestamp="1484858720751">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
@@ -108,6 +108,11 @@
       <file name="/Bash Fragment (README.md:209).sh" timestamp="1483463464417">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/DLT_stuff/Rusty/rusty_donut_v3/s3io.rb" timestamp="1484858640993">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+      </file>
       <file name="$USER_HOME$/Development/rean/pipeline_work/vpc_deploynow.yaml" timestamp="1483630925246">
         <mark key="[" line="501" column="40" />
         <mark key="]" line="507" column="39" />
@@ -123,7 +128,7 @@
         <text encoding="base64">aW1wb3J0IGlwYWRkcmVzcwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>-</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">czMgPSBib3RvMy5yZXNvdXJjZSgnczMnKQo=</text>
@@ -153,7 +158,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>-</text>
       </register>
     </registers>
     <search>
