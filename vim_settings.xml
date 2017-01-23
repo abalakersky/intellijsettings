@@ -6,11 +6,6 @@
       <file name="/start_script.py" timestamp="1484858006743">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484938149056">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/rean/cfn/elasticsearch.cf.json" timestamp="1483636521119">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="345" column="0" />
@@ -34,18 +29,6 @@
       </file>
       <file name="/a.dummy" timestamp="1484938010557">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/testing/Python_Tests/quick_start.py" timestamp="1484930919558">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="18" column="47" />
-        <mark key="." line="18" column="47" />
-        <mark key="^" line="18" column="47" />
-      </file>
-      <file name="$USER_HOME$/Development/go-projects/src/github.com/aws-go-tools/s3_manifester/README.md" timestamp="1483641052981">
-        <mark key="[" line="35" column="83" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Development/rean/RADAR/management/personal_stack_cleanup/Gemfile" timestamp="1483718224766">
         <mark key="[" line="2" column="13" />
@@ -80,12 +63,6 @@
       <file name="$USER_HOME$/Development/testing/Python_Tests/123.json" timestamp="1484682965563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go-projects/src/github.com/aws-go-tools/test/test.go" timestamp="1483630438605">
-        <mark key="[" line="39" column="38" />
-        <mark key="]" line="39" column="30" />
-        <mark key="^" line="39" column="30" />
-        <mark key="." line="39" column="30" />
-      </file>
       <file name="$USER_HOME$/Development/testing/Python_Tests/test.py" timestamp="1484937920208">
         <mark key="[" line="8" column="67" />
         <mark key="]" line="8" column="94" />
@@ -110,6 +87,28 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
+      <file name="/Dummy.txt" timestamp="1484938149056">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/testing/Python_Tests/quick_start.py" timestamp="1485187664778">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go-projects/src/github.com/aws-go-tools/s3_manifester/README.md" timestamp="1483641052981">
+        <mark key="[" line="35" column="83" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="84" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go-projects/src/github.com/aws-go-tools/test/test.go" timestamp="1483630438605">
+        <mark key="[" line="39" column="38" />
+        <mark key="]" line="39" column="30" />
+        <mark key="^" line="39" column="30" />
+        <mark key="." line="39" column="30" />
+      </file>
       <file name="/Bash Fragment (README.md:209).sh" timestamp="1483463464417">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,6 +116,12 @@
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="12" />
         <mark key="." line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/testing/Python_Class/test1.py" timestamp="1485187107745">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="/fragment.java" timestamp="1484930578727">
         <mark key="[" line="0" column="0" />
@@ -132,7 +137,13 @@
       <jump line="12" column="22" filename="$USER_HOME$/Development/testing/Python_Tests/test.py" />
     </jumps>
     <registers>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">dGVzdCA9IHMzLgo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dGVzdCA9IHMzLgo=</text>
+      </register>
+      <register name="2" type="4">
         <text>#!/usr/bin/evn python
 
 import os
@@ -149,35 +160,29 @@ for root, dirs, files in os.walk('/Users/abalakersky/Development'):
         print getsize(full_name)
         #print getsize(files), &quot;bytes in&quot;, len(files), &quot;non-directory files&quot;</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">dGVybWluYXRlZAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Zm9yIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">cmVzdWx0ID0gYm90bzMuY2xpZW50KCdzMycpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">cmVzdWx0LmNyZWF0ZV9idWNrZXQoKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">OncK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Zm9yIGkgaW4gcmVzdWx0Lmluc3RhbmNlcy5lYWNoCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGlwYWRkcmVzcwo=</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -190,9 +195,9 @@ for root, dirs, files in os.walk('/Users/abalakersky/Development'):
     <history>
       <history-search />
       <history-cmd>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
