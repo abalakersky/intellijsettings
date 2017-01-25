@@ -30,6 +30,12 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/Class/.idea/intellijTerminal.rc" timestamp="1485371636804">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+      </file>
       <file name="$USER_HOME$/Development/rean/pipeline_work/shell.sh" timestamp="1483715395512">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="4" column="60" />
@@ -155,8 +161,8 @@
       <jump line="12" column="22" filename="$USER_HOME$/Development/testing/Python_Tests/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c291cmNlIH4vLmJhc2hfcHJvZmlsZQo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -165,24 +171,27 @@
         <text encoding="base64">IiIiIDp0eXBlIDogcHlib3RvMyAiIiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">c291cmNlIH4vLmJhc2hfcHJvZmlsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IiIiIDp0eXBlIDogcHlib3RvMyAiIiIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">IiIiIDp0eXBlIDogcHlib3RvMyAiIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IiIiIDp0eXBlIDogcHlib3RvMy5zMyAiIiIK</text>
+        <text encoding="base64">IiIiIDp0eXBlIDogcHlib3RvMyAiIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xpZW50Lgo=</text>
+        <text encoding="base64">IiIiIDp0eXBlIDogcHlib3RvMy5zMyAiIiIK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Y2xpZW50Lgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">dGVzdCA9IHMzLgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>#!/usr/bin/evn python
 
 import os
@@ -199,14 +208,11 @@ for root, dirs, files in os.walk('/Users/abalakersky/Development'):
         print getsize(full_name)
         #print getsize(files), &quot;bytes in&quot;, len(files), &quot;non-directory files&quot;</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">dGVybWluYXRlZAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Zm9yIAo=</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -217,9 +223,9 @@ for root, dirs, files in os.walk('/Users/abalakersky/Development'):
       <history-search />
       <history-cmd>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>q!</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
