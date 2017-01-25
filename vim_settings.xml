@@ -18,6 +18,12 @@
         <mark key="." line="213" column="4" />
         <mark key="^" line="213" column="4" />
       </file>
+      <file name="$USER_HOME$/Development/testing/Python_Tests/list-instanceIP-non-terminated.py" timestamp="1485364658655">
+        <mark key="[" line="14" column="75" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/rean/pipeline_work/shell.sh" timestamp="1483715395512">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="4" column="60" />
@@ -87,10 +93,11 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/testing/Python_Tests/boto3.tests.py" timestamp="1485362116399">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Development/testing/Python_Tests/boto3.tests.py" timestamp="1485364540028">
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1484938149056">
         <mark key="[" line="0" column="0" />
@@ -142,16 +149,34 @@
       <jump line="12" column="22" filename="$USER_HOME$/Development/testing/Python_Tests/test.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Y2xpZW50Lgo=</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xpZW50Lgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">IiIiIDp0eXBlIDogcHlib3RvMyAiIiIK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">IiIiIDp0eXBlIDogcHlib3RvMyAiIiIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IiIiIDp0eXBlIDogcHlib3RvMyAiIiIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IiIiIDp0eXBlIDogcHlib3RvMy5zMyAiIiIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y2xpZW50Lgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">dGVzdCA9IHMzLgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>#!/usr/bin/evn python
 
 import os
@@ -168,29 +193,14 @@ for root, dirs, files in os.walk('/Users/abalakersky/Development'):
         print getsize(full_name)
         #print getsize(files), &quot;bytes in&quot;, len(files), &quot;non-directory files&quot;</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dGVybWluYXRlZAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Zm9yIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cmVzdWx0ID0gYm90bzMuY2xpZW50KCdzMycpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cmVzdWx0LmNyZWF0ZV9idWNrZXQoKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">OncK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>wq</text>
-      </register>
-      <register name="-" type="4">
-        <text>s</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -203,6 +213,7 @@ for root, dirs, files in os.walk('/Users/abalakersky/Development'):
         <entry>w</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
