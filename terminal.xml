@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="/bin/bash --rcfile ~/Development/testing/class/.intellijTerminal" />
+    <option name="myShellPath" value="/bin/bash --rcfile ~/Development/Class/.idea/intellijTerminal" />
   </component>
 </application>
