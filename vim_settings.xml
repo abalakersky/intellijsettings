@@ -30,10 +30,11 @@
         <mark key="." line="213" column="4" />
         <mark key="^" line="213" column="4" />
       </file>
-      <file name="$USER_HOME$/Development/testing/Python_Tests/list-instanceIP-non-terminated.py" timestamp="1485372087364">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Development/testing/Python_Tests/list-instanceIP-non-terminated.py" timestamp="1485806074074">
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="15" />
       </file>
       <file name="$USER_HOME$/Development/Class/.idea/intellijTerminal.rc" timestamp="1485371791021">
         <mark key="[" line="0" column="7" />
@@ -166,58 +167,44 @@
       <jump line="12" column="22" filename="$USER_HOME$/Development/testing/Python_Tests/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWMyLmluc3RhbmNlcwo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>d</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IiIiIDp0eXBlIDogcHlib3RvMyAiIiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWMyLmluc3RhbmNlcwo=</text>
+        <text encoding="base64">aW1wb3J0IF9qc29uIGFzIGpzb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c291cmNlIH4vLmJhc2hfcHJvZmlsZQo=</text>
+        <text encoding="base64">ICAgIHByaW50IGkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Zm9yIGkgaW4gc2VjZ3JvdXBzOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IiIiIDp0eXBlIDogcHlib3RvMyAiIiIK</text>
+        <text encoding="base64">ZWMyLmluc3RhbmNlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IiIiIDp0eXBlIDogcHlib3RvMyAiIiIK</text>
+        <text encoding="base64">c291cmNlIH4vLmJhc2hfcHJvZmlsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IiIiIDp0eXBlIDogcHlib3RvMy5zMyAiIiIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xpZW50Lgo=</text>
+        <text encoding="base64">IiIiIDp0eXBlIDogcHlib3RvMyAiIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVzdCA9IHMzLgo=</text>
+        <text encoding="base64">IiIiIDp0eXBlIDogcHlib3RvMyAiIiIK</text>
       </register>
-      <register name="9" type="4">
-        <text>#!/usr/bin/evn python
-
-import os
-
-from os.path import join, getsize
-
-for root, dirs, files in os.walk('/Users/abalakersky/Development'):
-    print root, &quot;contains&quot;,
-    for name in files:
-        if name == '.DS_Store':
-            continue
-        full_name = join(root, name)
-        print full_name + &quot;\n&quot;
-        print getsize(full_name)
-        #print getsize(files), &quot;bytes in&quot;, len(files), &quot;non-directory files&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">IiIiIDp0eXBlIDogcHlib3RvMy5zMyAiIiIK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -228,9 +215,9 @@ for root, dirs, files in os.walk('/Users/abalakersky/Development'):
       <history-search />
       <history-cmd>
         <entry>q!</entry>
+        <entry>q</entry>
         <entry>w</entry>
         <entry>wq</entry>
-        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
