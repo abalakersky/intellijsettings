@@ -66,6 +66,12 @@
         <mark key="^" line="0" column="3658" />
         <mark key="." line="0" column="3658" />
       </file>
+      <file name="$USER_HOME$/Development/go-projects/src/github.com/abalakersky/aws-go-tools/inventory/csv_inventory.go" timestamp="1486161395850">
+        <mark key="[" line="48" column="11" />
+        <mark key="]" line="67" column="18" />
+        <mark key="." line="67" column="18" />
+        <mark key="^" line="67" column="18" />
+      </file>
       <file name="$USER_HOME$/Development/rean/RADAR/management/update_radar/Gemfile" timestamp="1483718079005">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="3" column="22" />
@@ -182,37 +188,37 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KCcxJykK</text>
+        <text encoding="base64">CQlzdmMgPSBlYzIuTmV3KHNlc3Npb24uTmV3KCZhd3MuQ29uZmlnewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CS8vImdpdGh1Yi5jb20vYXdzL2F3cy1zZGstZ28vYXdzL3Nlc3Npb24iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2VjMmluc3RhbmNlaWQnOiBpZHMK</text>
+        <text encoding="base64">CS8vImdpdGh1Yi5jb20vYXdzL2F3cy1zZGstZ28vYXdzL3Nlc3Npb24iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RhdGUnOiBkYXRldGltZS5kYXRldGltZS5ub3coKS5pc29mb3JtYXQoKSwK</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2F3cy9hd3Mtc2RrLWdvL2F3cyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IF9qc29uIGFzIGpzb24K</text>
+        <text encoding="base64">CXJlZ2lvbnMsIGVyciA6PSBzdmMuRGVzY3JpYmVSZWdpb25zKCZyZXEpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50IGkK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9yIGkgaW4gc2VjZ3JvdXBzOgo=</text>
+        <text encoding="base64">CXJlZ2lvbnMsIGVyciA6PSBzdmMuRGVzY3JpYmVSZWdpb25zUmVxdWVzdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWMyLmluc3RhbmNlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c291cmNlIH4vLmJhc2hfcHJvZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2VjMmluc3RhbmNlaWQnOiBpZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RhdGUnOiBkYXRldGltZS5kYXRldGltZS5ub3coKS5pc29mb3JtYXQoKSwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -223,9 +229,9 @@
       <history-search />
       <history-cmd>
         <entry>q!</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
