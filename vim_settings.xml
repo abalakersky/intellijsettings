@@ -130,6 +130,11 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/Development/Rean_Projects/amicus-sandbox-env/.gitignore" timestamp="1500907260980">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1485891142449">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -187,41 +192,50 @@
       <jump line="58" column="36" filename="$USER_HOME$/Development/testing/Python_Tests/abe.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlzdmMgPSBlYzIuTmV3KHNlc3Npb24uTmV3KCZhd3MuQ29uZmlnewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vImdpdGh1Yi5jb20vYXdzL2F3cy1zZGstZ28vYXdzL3Nlc3Npb24iCg==</text>
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vImdpdGh1Yi5jb20vYXdzL2F3cy1zZGstZ28vYXdzL3Nlc3Npb24iCg==</text>
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2F3cy9hd3Mtc2RrLWdvL2F3cyIK</text>
+      <register name="3" type="4">
+        <text>### macOS template
+
+# Icon must end with two \r
+
+
+# Thumbnails
+
+# Files that might appear in the root of a volume
+
+# Directories potentially created on remote AFP share</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXJlZ2lvbnMsIGVyciA6PSBzdmMuRGVzY3JpYmVSZWdpb25zKCZyZXEpIHsK</text>
+        <text encoding="base64">CS8vImdpdGh1Yi5jb20vYXdzL2F3cy1zZGstZ28vYXdzL3Nlc3Npb24iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CS8vImdpdGh1Yi5jb20vYXdzL2F3cy1zZGstZ28vYXdzL3Nlc3Npb24iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJlZ2lvbnMsIGVyciA6PSBzdmMuRGVzY3JpYmVSZWdpb25zUmVxdWVzdCgpCg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2F3cy9hd3Mtc2RrLWdvL2F3cyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CXJlZ2lvbnMsIGVyciA6PSBzdmMuRGVzY3JpYmVSZWdpb25zKCZyZXEpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2VjMmluc3RhbmNlaWQnOiBpZHMK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RhdGUnOiBkYXRldGltZS5kYXRldGltZS5ub3coKS5pc29mb3JtYXQoKSwK</text>
+        <text encoding="base64">CXJlZ2lvbnMsIGVyciA6PSBzdmMuRGVzY3JpYmVSZWdpb25zUmVxdWVzdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
